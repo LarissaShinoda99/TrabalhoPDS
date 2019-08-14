@@ -8,10 +8,9 @@ package Conta2;
  * (Larissa.csantos991@gmail.com)
  *
  * Data de criação: 05/08/2019 ################################### ´Última
- * Alteração:
+ * Alteração:14/08/2019 as 14:22
  *
- * Analista: Joycilene e Larissa Data: 14/08/2019 
- * Alteração: Teste, apenas.
+ * Analista: Joycilene e Larissa Data: 14/08/2019 Alteração: Teste, apenas.
  *
  * ####################################
  *

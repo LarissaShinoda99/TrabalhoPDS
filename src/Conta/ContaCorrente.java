@@ -10,8 +10,7 @@ package Conta;
  * Data de criação: 05/08/2019 ################################### ´Última
  * Alteração:
  *
- * Analista: Joycilene e Larissa Data: 14/08/2019 
- * Alteração: Teste, apenas.
+ * Analista: Joycilene e Larissa Data: 14/08/2019 Alteração: Teste, apenas.
  *
  * ####################################
  *
